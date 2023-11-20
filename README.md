@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Nayeem
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently working on React JS
+- 🌱 I’m currently working on React JS, and Tailwind CSS
 - 💞️ I’m looking to collaborate on Web development
 - 📫 Reach me at nayeem.gmit@gmail.com
 
