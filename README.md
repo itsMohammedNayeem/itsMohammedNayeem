@@ -3,8 +3,9 @@
 - 🌱 I’m currently working on Next JS, React JS, Typescript, ShadCn, and Tailwind CSS
 - 💞️ I’m looking to collaborate on Web development
 - 📫 Reach me at nayeem.gmit@gmail.com
-- 🎮 Recent work using Firebase, ShadCn, Dropzone, Next Js, Clerk
-     - https://dropbox-8cbdl4pks-itsmohammednayeem.vercel.app/
+- 🎮 Recent work using Firebase, ShadCn, Dropzone, Next Js, Clerk, Scrape data with Oxylabs
+     - Dropbox clone: https://dropbox-8cbdl4pks-itsmohammednayeem.vercel.app/
+     - Booking.com clone: https://portfolio-2-0-iscu6lzq3-itsmohammednayeem.vercel.app/
 
 <!---
 itsMohammedNayeem/itsMohammedNayeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
