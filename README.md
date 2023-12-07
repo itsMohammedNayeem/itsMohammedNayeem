@@ -5,7 +5,7 @@
 - 📫 Reach me at nayeem.gmit@gmail.com
 - 🎮 Recent work using Firebase, ShadCn, Dropzone, Next Js, Clerk, Scrape data with Oxylabs
      - [Dropbox clone](https://dropbox-8cbdl4pks-itsmohammednayeem.vercel.app/)
-     - [Portfolio 2](https://portfolio-2-0-iscu6lzq3-itsmohammednayeem.vercel.app/)
+     - [Portfolio 2](https://portfolio-2-0-itsmohammednayeem.vercel.app/)
      - [Booking.com clone](https://booking-clone-nlxt2k5hj-itsmohammednayeem.vercel.app)
 
 <!---
