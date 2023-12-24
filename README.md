@@ -59,7 +59,7 @@
 
 </p>
 
-<h5 align="left">Frontend Development :</h5>
+<h5 align="left">Frontend Development:</h5>
 
 <p align="left"> 
 
@@ -80,7 +80,7 @@
             alt="materialui" width="40" height="40" /> </a>
 </p>
 
-<h5 align="left">Backend Development :</h5>
+<h5 align="left">Backend Development:</h5>
 
 <p align="left"> 
 
@@ -93,7 +93,7 @@
     </a> 
 </p>
 
-<h5 align="left">Database :</h5>
+<h5 align="left">Database:</h5>
 
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
@@ -101,7 +101,7 @@
             alt="mysql" width="40" height="40" /> </a>
 </p>
 
-<h5 align="left">Data visualization :</h5>
+<h5 align="left">Data visualization:</h5>
 
 <p align="left"> 
 <a href="https://www.chartjs.org" target="_blank"
@@ -109,7 +109,7 @@
             height="40" /> </a>
 </p>
 
-<h5 align="left">Devops :</h5>
+<h5 align="left">Devops:</h5>
 <p align="left"> 
 <a href="https://www.docker.com/" target="_blank"
         rel="noreferrer"> <img
@@ -119,7 +119,7 @@
             height="40" /> </a> 
 </p>
 
-<h5 align="left">Backend as a Service :</h5>
+<h5 align="left">Backend as a Service:</h5>
 <p align="left"> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
@@ -128,14 +128,14 @@
             height="40" /> </a>
 </p>
 
-<h5 align="left">Testing :</h5>
+<h5 align="left">Testing:</h5>
 <p align="left"> 
 <a href="https://jestjs.io" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"
             height="40" /> </a>
 </p>
 
-<h5 align="left">Software :</h5>
+<h5 align="left">Software:</h5>
 <p align="left"> 
 <a href="https://www.adobe.com/in/products/illustrator.html"
         target="_blank" rel="noreferrer"> <img
@@ -155,7 +155,7 @@
 
 
 
-<h5 align="left">Other :</h5>
+<h5 align="left">Other:</h5>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
