@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋🏼, I'm Nayeem</h2>
-<h5>Experienced Software Developer with over 12 years of experience in the industry, including 4 years focused on React JS development</h5>
+<h5>Experienced Software Developer with over 12 years of experience in the industry, including 4 years focused on React JS development.</h5>
 
 <p align="left">
         <img
