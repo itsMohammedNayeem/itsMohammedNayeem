@@ -45,6 +45,11 @@
     - [Disney clone](https://disney-clone-itsmohammednayeem.vercel.app/)
     - [Real Time AI Weather](https://stepzen-weather-app-itsmohammednayeem.vercel.app/)
 
+- 🛹 Simple HTML/CSS work
+    - [Four card feature section](https://four-card-feature-section-master-itsmohammednayeem.vercel.app/)
+    - [Card hover animation](https://css-card-hover-animation-itsmohammednayeem.vercel.app/)
+    - [Layered card](https://layered-card-itsmohammednayeem.vercel.app/)
+
 <hr/>
 
 <h5 align="left">Programming Languages :</h5>
