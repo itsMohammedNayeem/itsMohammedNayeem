@@ -49,6 +49,7 @@
     - [Four card feature section](https://four-card-feature-section-master-itsmohammednayeem.vercel.app/)
     - [Card hover animation](https://css-card-hover-animation-itsmohammednayeem.vercel.app/)
     - [Layered card](https://layered-card-itsmohammednayeem.vercel.app/)
+    - [CSS Grid](https://learn-grid-the-easy-way-main-itsmohammednayeem.vercel.app/)
 
 <hr/>
 
