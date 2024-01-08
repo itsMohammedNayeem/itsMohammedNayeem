@@ -45,6 +45,7 @@
     - [Disney clone](https://disney-clone-itsmohammednayeem.vercel.app/)
     - [Real Time AI Weather](https://stepzen-weather-app-itsmohammednayeem.vercel.app/)
     - [CSV/PRN file formatting](https://noumena-digital-itsmohammednayeem.vercel.app/)
+    - [QR code generator](https://qr-code-generator-itsmohammednayeem.vercel.app/)
 
 - 🛹 Simple HTML/CSS work
     - [Four card feature section](https://four-card-feature-section-master-itsmohammednayeem.vercel.app/)
